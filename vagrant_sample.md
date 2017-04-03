@@ -9,7 +9,7 @@ This uses a 'box' publicly listed on Vagrant's index [here](https://atlas.hashic
 You'll need to install Vagrant and a virtualizer (I use [VirtualBox](https://www.virtualbox.org/wiki/Downloads))
 
 
-```{bash}
+```bash
 mkdir ~/test_box
 cd ~/test_box
 
